@@ -1,0 +1,19 @@
+{
+  "name": "@danielbgomez/theme-ant",
+  "version": "1.0.0",
+  "description": "This package just has an empty CSS styles file so we can \"fake\" the import of that file in another projects",
+  "main": "styles.css",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DanielBGomez/css-placeholder.git"
+  },
+  "author": "Cesar Daniel B <https://danielbgomez.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/DanielBGomez/css-placeholder/issues"
+  },
+  "homepage": "https://github.com/DanielBGomez/css-placeholder#readme"
+}
